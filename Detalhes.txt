@@ -1,0 +1,16 @@
+Um exemplo simples em Python
+Imagine uma base de clientes com 4 variáveis que ajudam a prever churn:
+LTV – meses como cliente
+USO DO PRODUTO – número médio de acessos por mês
+TICKETS – chamados abertos
+CHURN – se o cliente cancelou (1) ou não (0)
+MRR - Valor mensal pago pelo cliente
+Tempo desde último acesso
+NPS
+CSAT médio
+Funcionalidades essenciais utilizadas
+Teve Upsell?
+Teve Downsell?
+Inadimplência
+
+
